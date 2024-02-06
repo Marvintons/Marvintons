@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Marvintons
 - 👀 I’m interested in ...building software
-- 🌱 I’m currently learning ...Java and C++
+- 🌱 I’m currently learning ...Java and C++ (know how to code)
+- Learned python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...he/him
